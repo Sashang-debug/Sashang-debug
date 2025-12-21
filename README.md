@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sashang</h1>
+<h3 align="center">Computer Science & AI Student | Aspiring Developer</h3>
 
-<!--
-**Sashang-debug/Sashang-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="300"
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍🎓 About Me
+- 🎓 Pursuing Bachelor of Technology in **Computer Science At Indian Institute Of Information Technology Gwalior**
+- Currently learning **Web Development (HTML, CSS, JavaScript, React)**
+- Interested in **Open Source, Software Development & AI**
+- Goal: Become an industry-ready developer
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: **sashang345@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/sashang-raj-301015326/**
+- 🌐 Portfolio: **Coming soon**
+
+---
+
+### ✨ Fun Fact
+- I love learning by **debugging code** 🐞😄
