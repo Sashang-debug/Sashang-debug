@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sashang</h1>
-<h3 align="center">Computer Science & AI Student | Aspiring Developer</h3>
+<h3 align="center">Computer Science Student | Aspiring Developer</h3>
 
 <img align="right" alt="coding" width="300"
 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ---
 
-### 👨‍🎓 About Me
+### About Me
 - 🎓 Pursuing Bachelor of Technology in **Computer Science At Indian Institute Of Information Technology Gwalior**
 - Currently learning **Web Development (HTML, CSS, JavaScript, React)**
 - Interested in **Open Source, Software Development & AI**
@@ -14,7 +14,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -29,7 +29,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 - 📧 Email: **sashang345@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/sashang-raj-301015326/**
 - 🌐 Portfolio: **Coming soon**
