@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | Aspiring Developer</h3>
 
 <img align="right" alt="coding" width="300"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ---
 
