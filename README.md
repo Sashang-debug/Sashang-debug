@@ -28,13 +28,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </p>
 
 ---
-
 ### Connect With Me
 - 📧 Email: **sashang345@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/sashang-raj-301015326/**
-- 🌐 Portfolio: **Coming soon**
-
 ---
-
-### ✨ Fun Fact
-- I love learning by **debugging code** 🐞😄
