@@ -7,7 +7,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 ---
 
 ### About Me
-- 🎓 Pursuing Bachelor of Technology in **Computer Science At Indian Institute Of Information Technology Gwalior**
+- 🎓 Pursuing Bachelor of Technology in **Computer Science**
 - Currently learning **Web Development (HTML, CSS, JavaScript, React)**
 - Interested in **Open Source, Software Development & AI**
 - Goal: Become an industry-ready developer
